@@ -14,8 +14,3 @@ Hi👋<br>I am Sachin Singh, a first-year B.Tech Computer Science and Engineerin
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SachinSoriyal.&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=SachinSoriyal.&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
