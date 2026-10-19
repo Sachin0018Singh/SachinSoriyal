@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋<br>I am Sachin Singh, a first-year B.Tech Computer Science and Engineering (CSE) student. I am passionate about learning programming and building my skills step by step.<br>I have learned the fundamentals of Python and have recently started my journey in Web Development. Currently, I am exploring HTML, CSS, JavaScript, Git, and GitHub while working on small projects to strengthen my practical knowledge.<br><br>I enjoy solving problems, learning new technologies, and improving my coding skills every day.
+Hi👋<br>I am Sachin Singh, a first-year B.Tech Computer Science and Engineering (CSE) student. I am passionate about learning programming and building my skills step by step.<br>I have learned the fundamentals of Python and have recently started my journey in Web Development. Currently, I am exploring HTML, CSS, JavaScript, Git, and GitHub while working on small projects to strengthen my practical knowledge.<br>I enjoy solving problems, learning new technologies, and improving my coding skills every day.
 
 
 ## 🌐 Socials:
