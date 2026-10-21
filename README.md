@@ -2,6 +2,7 @@
 Hi👋<br><br>I am Sachin Singh, a first-year B.Tech Computer Science and Engineering (CSE) student. I am passionate about learning programming and building my skills step by step.<br><br>I have learned the fundamentals of Python and have recently started my journey in Web Development. Currently, I am exploring HTML, CSS, JavaScript, Git, and GitHub while working on small projects to strengthen my practical knowledge.<br>I enjoy solving problems, learning new technologies, and improving my coding skills every day.
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SachinSingh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachin_soriyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SachinSoriyal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sachin_018) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SACHINSING1oo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinsingh.11272@gmail.com) 
 
